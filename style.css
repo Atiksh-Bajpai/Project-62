@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    
+}
+
+#title_img{
+    width:800px;
+}
+
+.image1{
+    width:200px;
+    height: 200px;
+}
+
+.image2{
+    width:100%;
+}
